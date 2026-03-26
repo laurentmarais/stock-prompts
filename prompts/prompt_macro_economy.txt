@@ -1,0 +1,46 @@
+Create a global economic outlook for the next month in #file:global_economic_outlook.md.
+
+Goal:
+- Explain what is happening in the world right now that affects stock trading.
+- Explain how those conditions are likely to change over the next month.
+- Reassess the macro environment with fresh eyes each day rather than assuming yesterday's dominant narrative is still correct.
+- Clearly separate what is still driving markets from what is new today or newly important.
+
+Focus areas:
+- Geopolitics that affect markets, especially energy supply, trade routes, and risk sentiment
+- Central bank policy and rate expectations
+- Inflation, bond yields, and growth expectations
+- Regional differences across the U.S., Europe, China, and Japan
+- Which sectors or styles are likely to outperform or underperform in the next month
+
+Output requirements:
+- Write for an investor or trader, not for an academic audience.
+- Keep the analysis practical and directly tied to stock-market implications.
+- Include a clear base case for the next month.
+- Include bull, base, and bear scenarios if the macro picture is highly uncertain.
+- End with a short bottom-line summary.
+- Explicitly identify:
+	- which prior market drivers are still in force,
+	- what is genuinely new today,
+	- whether the market narrative has shifted, weakened, or broadened,
+	- and which risks the market may still be underpricing.
+- Do not anchor on the previous day's thesis without re-validating it against today's developments and market moves.
+- If yesterday's dominant driver is no longer the main driver, say so clearly and replace it with the updated hierarchy of risks.
+
+Suggested structure:
+- Bottom line
+- What is still driving markets
+- What is new today
+- What is happening right now
+- What will likely change over the next month
+- What traders should watch most closely
+- Sector and regional implications
+- Scenarios
+- Summary
+
+Style guidance:
+- Be concise, clear, and market-focused.
+- Avoid generic macro commentary that does not affect stocks.
+- Prioritize the biggest drivers first.
+- Treat this as a fresh daily diagnosis, not a lightly edited carry-forward from the prior note.
+- Be explicit about changes in tone, direction, and ranking of risks.

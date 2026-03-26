@@ -1,0 +1,53 @@
+Based on the research documented in #file:global_economic_outlook.md, identify a shortlist of stocks that appear suitable for short-term swing trades in the current macro environment.
+
+Goal:
+- The stocks do not need extreme upside.
+- The priority is to avoid names that are likely to suffer major downside from the macro backdrop described in #file:global_economic_outlook.md or from company-specific weakness.
+- Focus on resilient, profitable small caps that are suitable for short-term swing trades because they combine valuation support, business quality, and macro tailwinds over the next month.
+- The idea is not to find low-quality momentum chases. The idea is to find good, profitable, undervalued stocks that are easier to swing trade because the next month's market conditions are likely to help rather than hurt them.
+- Reassess the macro environment from #file:global_economic_outlook.md dynamically rather than assuming any fixed regime, sector winner, or hardcoded market condition.
+
+Screening criteria:
+- Market cap must be below USD 750M.
+- The company must currently be profitable.
+- Profitability should appear reasonably durable under the current macro backdrop described in #file:global_economic_outlook.md.
+- The stock should appear undervalued on both:
+  - a NAV-per-share basis, or the closest practical equivalent such as tangible book value / NCAV when standard NAV is not meaningful for the business model
+  - a discounted cash flow basis using conservative assumptions
+- The stock should trade with enough liquidity to enter and exit cleanly as a swing setup, and should not be so illiquid or distressed that gap-down risk dominates.
+- The business should still have acceptable balance-sheet health and business quality, because stronger underlying fundamentals make short-term swing setups more reliable.
+
+Exclude:
+- Companies with clear balance-sheet stress, going-concern risk, major refinancing risk, or ongoing heavy dilution risk
+- Businesses whose profitability is highly exposed to the main macro risks identified in #file:global_economic_outlook.md unless the company is clearly insulated
+- Binary-event situations such as major litigation cliffs, single-asset biotech catalysts, or obvious turnaround/speculative restructurings
+- Companies with recent severe operational deterioration or obvious internal red flags
+
+Output requirements:
+- Record the findings in #file:fast_swing_stocks.md.
+- Use a markdown table.
+- Sort the table by profitability, highest first.
+- Keep the summaries light and practical.
+- Prioritize names that look attractive for a short-term swing trade because they also have solid profitability, valuation support, and favorable alignment with the next month's macro outlook.
+- If a stock only works as a low-quality tactical bounce and lacks real valuation or business support, exclude it or clearly place it outside the core list.
+
+Include these columns:
+- Ticker
+- Company
+- Market Cap
+- Profitability Metric
+- NAV / Tangible Book Discount
+- DCF Discount
+- Why It Fits Current Conditions
+- Key Risk
+
+Method notes:
+- Use the macro outlook in #file:global_economic_outlook.md as the top-down filter.
+- Determine the relevant macro pressures, likely winners, and likely losers from #file:global_economic_outlook.md each time you run the screen. Do not hardcode assumptions such as oil shock, sticky inflation, higher-for-longer rates, or any specific geopolitical regime unless the macro note still supports them.
+- Prefer sectors and business models that appear more resilient to the main risks and more aligned with the base case laid out in #file:global_economic_outlook.md.
+- Distinguish between:
+  - core swing-trade candidates with both macro tailwinds and fundamental support,
+  - and lower-quality tactical names that are moving mainly on noise, hype, or fragile setups.
+- Be conservative. If very few stocks genuinely meet all criteria, return fewer names rather than forcing weak candidates.
+- If no stock clearly satisfies every condition, state that clearly and provide the closest matches instead.
+

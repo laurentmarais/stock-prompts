@@ -1,0 +1,114 @@
+Identify a shortlist of stocks that may be entering the early stage of a momentum move before the broad market fully notices.
+
+Goal:
+- Find stocks early enough for a swing trade, before the obvious breakout or full retail chase.
+- Focus on public, legal, observable signals only.
+- Do not rely on or suggest material nonpublic information, leaked insider information, or anything illegal.
+- Prefer setups where momentum appears to be building because of a real catalyst, quiet accumulation, or improving market attention.
+
+Core idea:
+- The objective is not to predict random pumps.
+- The objective is to find stocks where a credible catalyst and early tape behavior suggest an asymmetric near-term attention shift.
+
+What to look for:
+
+1. Catalyst proximity
+- Look for a real event within roughly the next 2 to 8 weeks.
+- Examples:
+	- earnings,
+	- guidance reset,
+	- investor day,
+	- product launch,
+	- FDA or trial milestone,
+	- court ruling,
+	- contract award,
+	- merger or spin-off event,
+	- index inclusion,
+	- regulatory decision,
+	- commodity or policy event likely to reprice a sector.
+- Prefer catalysts that are specific and dateable, not vague company promises.
+
+2. Early accumulation and volume behavior
+- Look for rising volume before a major price breakout.
+- Prefer names where:
+	- 5-day average volume is clearly above 20-day average volume,
+	- volume is expanding on up days,
+	- the stock repeatedly closes in the upper part of its daily range,
+	- accumulation appears over several sessions rather than one isolated spike.
+
+3. Relative strength before the crowd arrives
+- Prefer stocks that are already outperforming their sector or small-cap peers quietly.
+- Useful signs:
+	- the stock stops falling even when its group is weak,
+	- it holds key moving averages better than peers,
+	- pullbacks are shallow and bought quickly,
+	- price compresses tightly after an initial move instead of fully retracing.
+
+4. Options and positioning clues
+- If options data is available, look for unusual call activity, rising open interest, or implied volatility building around a plausible catalyst.
+- Treat this as supporting evidence only, not as a standalone reason.
+
+5. Float and tradability
+- Prefer stocks with enough liquidity to trade cleanly but not such a large float that attention cannot move them.
+- Favor names with:
+	- sufficient daily dollar volume,
+	- no obvious near-term dilution,
+	- no imminent financing overhang,
+	- no extreme illiquidity,
+	- a float small enough that new attention can matter.
+
+6. Fundamental and narrative support
+- Prefer stocks where the story is easy for the market to understand in one sentence.
+- The setup is stronger if at least one of these is true:
+	- earnings revisions are improving,
+	- margins or cash flow are inflecting,
+	- a prior bearish thesis is weakening,
+	- short interest is elevated while fundamentals are improving,
+	- the company is entering a better industry tape or macro regime.
+
+Exclude:
+- Obvious promotion-driven names with no real catalyst
+- Severe dilution risk, going-concern risk, or serial capital raises
+- Reverse-split quality situations unless there is an unusually strong and specific catalyst
+- Single-day volume anomalies without follow-through
+- Story stocks whose only support comes from social-media hype
+- Situations where the “edge” appears to depend on leaked insider information or other nonpublic data
+
+Output requirements:
+- Record findings in #file:momentum_stocks.md in a practical swing-trading format.
+- Use a markdown table.
+- Return only names that genuinely look early, not already fully extended momentum leaders.
+- If few names qualify, return fewer names rather than forcing marginal setups.
+- If no names qualify cleanly, say so and provide the closest watchlist names.
+
+Include these columns:
+- Ticker
+- Company
+- Market Cap
+- Catalyst Window
+- Early Momentum Signal
+- Volume / Relative Strength Clue
+- Why The Market May Notice Soon
+- Main Reason It Is Still Early
+- Key Risk
+
+Suggested method:
+- Start with a liquid small-cap and mid-cap universe.
+- Narrow to names with a dated upcoming catalyst or a clear sector-specific trigger.
+- Check for abnormal but not fully euphoric volume behavior.
+- Check whether the stock is outperforming quietly before a full breakout.
+- Prefer setups with a clean narrative and no obvious capital-structure trap.
+- Separate true candidates from “already pumped” names.
+
+Decision rule:
+- A strong candidate should usually have at least:
+	- one credible near-term catalyst,
+	- one clear early accumulation signal,
+	- one sign of relative strength,
+	- and no major balance-sheet or dilution red flags.
+
+Style guidance:
+- Be concise, skeptical, and practical.
+- Focus on evidence that can be seen in public market behavior.
+- Avoid breathless language like “moon,” “explosive,” or “guaranteed breakout.”
+- The goal is early but tradable momentum, not promotional speculation.
