@@ -1,207 +1,190 @@
 # Global Economic Outlook: Next Month
 
-Date: March 26, 2026
+Date: March 27, 2026
 
 ## Bottom Line
 
-The market is still being driven primarily by the Iran war through oil, shipping risk, and interest-rate pressure, but the daily narrative changed again today.
+The market is still being driven first by the Iran war through oil, shipping, and financial conditions, but today’s tone is slightly different from the prior session.
 
-This is no longer a clean relief-rally story. The market had been trying to price a diplomatic off-ramp, but today that optimism weakened as Iran called the U.S. proposal one-sided, Washington kept up direct threats, and the Houthis raised the risk of a broader shipping problem. Brent is back near $109, Treasury yields are firm again, and U.S. equities are lower. So the main driver has not changed, but the tone has shifted from tentative relief to renewed doubt about de-escalation.
+This is no longer a straightforward worsening story, but it is also not a clean relief story. Washington extended its deadline for striking Iranian energy plants to April 7 and is signaling that talks may still be alive, which takes some immediate escalation risk out of the tape. But Iran is still rejecting the U.S. proposal as unfair, restrictions around Hormuz remain the core issue, Brent is still near $111, and markets remain wary that any weekend setback could reprice energy sharply higher again.
 
 My base case for the next month is:
 
-- global equities stay volatile and headline-driven rather than trending cleanly higher,
-- oil remains elevated enough to keep inflation and rate concerns alive,
-- the Fed stays on hold, with little room to sound dovish unless energy pressure eases meaningfully,
+- global equities remain volatile and headline-driven rather than trending cleanly higher,
+- oil stays elevated enough to keep inflation and rate concerns alive,
+- the Fed stays constrained and reactive rather than supportive,
 - Europe and fuel-import-heavy Asian markets remain more fragile than the U.S.,
-- energy, defense, and selective value remain relatively supported while consumer-sensitive and rate-sensitive areas stay vulnerable.
+- energy, defense, and selective hard-asset value remain relatively supported while consumer-sensitive and rate-sensitive areas stay vulnerable.
 
 ## What Is Still Driving Markets
 
 ### 1. The core macro chain is still war to oil to rates to equities
 
-That remains the main framework.
+That remains the main market framework.
 
-- The Iran war still matters because it threatens Gulf energy flows.
-- Energy risk still matters because it keeps Brent elevated.
-- Elevated oil still matters because it lifts inflation expectations and tightens financial conditions.
-- Higher yields still matter because they pressure valuations and weaken appetite for broad risk.
+- The war still matters because it threatens Gulf energy flows.
+- Energy disruption still matters because it keeps Brent far above pre-conflict levels.
+- Elevated oil still matters because it keeps inflation pressure alive.
+- Inflation pressure still matters because it limits central-bank flexibility and keeps financial conditions tighter.
 
-That is still the dominant hierarchy of risk. It has not been replaced by earnings, growth data, or a clean soft-landing narrative.
+That is still the dominant hierarchy of risk. The market has not shifted to a normal growth-and-earnings regime.
 
-### 2. Shipping and physical supply risk still matter more than diplomacy headlines
+### 2. Physical shipping disruption still matters more than diplomatic language
 
-Markets keep reacting to negotiation language, but the harder question is whether energy routes and shipping conditions are actually normalizing.
+The practical question is still whether flows through Hormuz normalize meaningfully, not whether headlines temporarily sound softer.
 
-For traders, the practical issue is simple:
+- If energy routes stay restricted, the oil risk premium can rebuild quickly.
+- If freight, insurance, and routing stress persist, the inflation impulse lasts longer.
+- If the physical backdrop does not improve, relief rallies in equities remain fragile.
 
-- optimistic diplomacy headlines help risk assets briefly,
-- but if tankers, insurers, and exporters are not behaving as though the system is normal again, the oil premium can rebuild quickly.
+Markets are still trading operational disruption, not just political messaging.
 
-This means the market is still trading physical disruption risk, not just political theater.
+### 3. Financial conditions are still tightening around the edges
 
-### 3. Rates are still a second-order but critical driver
+The conflict is no longer just an oil chart story.
 
-The market is not only trading war headlines. It is also trading the rates consequences of those headlines.
+- Emerging-market debt issuance has largely frozen as borrowing costs rise.
+- Higher energy prices are widening spreads for vulnerable issuers.
+- Mortgage and broader financing conditions remain under pressure from the inflation shock.
 
-Today’s configuration still reflects that:
-
-- Brent crude is around $108.85,
-- the U.S. 10-year Treasury yield is around 4.364%,
-- the S&P 500 is down about 1.0%,
-- the Nasdaq is down about 1.3%.
-
-That tells you the market is still processing a stagflation-style risk mix rather than a benign growth backdrop.
+That matters because a headline-driven oil shock becomes more damaging once it spills into credit, funding, and housing-sensitive demand.
 
 ## What Is New Today
 
-### 1. The de-escalation story weakened
+### 1. The market has shifted from contested relief to contested pause
 
-This is the main change versus the more optimistic reading.
+This is the main change today.
 
-What changed today:
+What changed:
 
-- Iran described the U.S. peace proposal as one-sided and unfair,
-- Trump publicly pressed Iran to make a deal or face continued strikes,
-- Reuters reported fresh uncertainty around whether diplomacy is real enough to sustain a relief trade.
+- Trump extended the deadline for striking Iranian energy plants to April 7.
+- Reports suggest indirect talks may still be developing.
+- Oil is up on the day but set for its first weekly decline since the war began.
 
-Why that matters for stocks:
+Why that matters:
 
-- the market can no longer treat diplomacy as a steadily improving trend,
-- de-escalation is still possible, but it now looks less linear and less reliable,
-- that weakens the case for paying up for a broad rebound in equities.
+- the market can justify tactical relief moves,
+- but it still cannot price in durable de-escalation,
+- and the burden of proof for a broader risk-on move remains high.
 
-### 2. Shipping risk may be broadening, not narrowing
+### 2. Oil is still elevated even as the weekly trend softens
 
-This is the most important new underappreciated risk today.
+This is important because it changes the tone without changing the regime.
 
-Reuters reported that the Houthis said they were ready to join the Iran war if needed. That matters because it raises the risk that the market has to think about a wider shipping disruption again, not just a narrow Hormuz issue.
+- Brent around $110 to $111 is still restrictive for equities.
+- A weekly decline helps sentiment at the margin.
+- But oil remains high enough that inflation and rates pressure are still live risks.
 
-If that threat becomes operational rather than rhetorical:
+In other words, the market got a pause, not an all-clear.
 
-- freight and insurance stress can rise again,
-- oil can reprice quickly,
-- transport, airlines, and other fuel-sensitive sectors can come back under heavier pressure.
+### 3. Credit and funding stress are becoming easier to see
 
-### 3. Financial-conditions spillover is becoming clearer
+The freeze in emerging-market issuance is a useful warning sign.
 
-Reuters also reported that U.S. 30-year mortgage rates rose to a six-month high as the Iran war drags on.
+- It shows investors are demanding more compensation for geopolitical risk.
+- It shows risk appetite is narrowing rather than broadening.
+- It reinforces the idea that the conflict is feeding through to the cost of capital.
 
-That matters because it shows the conflict is no longer just a commodity story. It is now feeding directly into broader financing conditions.
-
-For stocks, this broadens the problem:
-
-- it is not just about energy margins,
-- it is also about the cost of capital, housing sensitivity, and the ability of rate-sensitive sectors to sustain rebounds.
+That weakens the case for chasing lower-quality balance sheets or rate-sensitive rebounds.
 
 ## What Is Happening Right Now
 
-### 1. The market narrative has shifted from relief to contested relief
+### 1. The tape is trading diplomacy, but positioning still reflects distrust
 
-The best way to describe today is not that the market has returned to panic. It has not.
+Markets are willing to trade short bursts of relief when direct strikes on energy infrastructure are delayed. But traders still assume those pauses can reverse quickly.
 
-But it has moved from:
+That means:
 
-- “de-escalation may be taking hold”
+- relief rallies remain tradable,
+- broad multiple expansion remains hard to trust,
+- and downside hedging demand is likely to stay elevated.
 
-to:
+### 2. Oil remains the cleanest macro signal
 
-- “de-escalation may still happen, but the path looks weak, reversible, and vulnerable to new shipping shocks.”
+Brent is still the key real-time guide to whether the market is moving toward stabilization or back toward stagflation fear.
 
-That is an important shift in tone.
+- Below $100 would materially improve the equity backdrop.
+- Around $105 to $110 keeps the market unstable.
+- Above $110 renews inflation and rates pressure more aggressively.
 
-### 2. Oil is no longer behaving like the problem is fading cleanly
-
-Brent near $109 is not an all-clear signal. It is high enough to keep inflation fears alive and high enough to prevent central banks from sounding comfortable.
-
-For equities, that means:
-
-- the market is not back to a normal valuation regime,
-- growth stocks can bounce tactically, but the macro backdrop is still restrictive,
-- defensive and hard-asset-linked groups still have a relative advantage.
+Right now the market is still sitting in the unstable middle-to-upper part of that range.
 
 ### 3. Regional divergence remains intact
 
-The practical regional split still looks like this:
+The U.S. still looks relatively more resilient than Europe or fuel-import-heavy Asian markets, but resilience is not the same as insulation.
 
-- the U.S. is relatively more resilient, but not insulated,
-- Europe remains highly exposed to imported energy and rate repricing,
-- Japan and much of Asia remain vulnerable through fuel costs and imported inflation,
-- China may look steadier than some peers, but it is still exposed to weaker global demand and risk sentiment.
+- Europe remains the most obvious major-market weak spot.
+- Japan and much of Asia remain exposed through imported fuel costs.
+- China can look steadier than some peers, but still faces weaker global demand and risk sentiment.
 
 ## What Will Likely Change Over The Next Month
 
 ## Base Case
 
-The next month will likely be shaped by four linked variables:
+The next month is likely to be shaped by four linked variables:
 
-- whether diplomacy becomes credible enough to reduce the energy premium,
-- whether shipping risk stays contained or broadens,
-- whether Brent can move back down toward the low $100s,
-- whether bond yields remain stable enough to prevent a deeper tightening in financial conditions.
+- whether talks produce a real reduction in Hormuz disruption,
+- whether oil can move lower without a fresh supply shock,
+- whether yields stay contained enough to prevent a broader financial tightening,
+- whether credit stress remains contained or spreads further.
 
-My base case is still volatility, but with a more cautious tone than the relief phase suggested.
+My base case is still volatility, but today’s pause makes the path slightly less one-directionally bearish than it looked in the prior note.
 
-### 1. Equities are likely to stay range-bound and headline-driven
+### 1. Equities are likely to stay range-bound and selective
 
-The market can still bounce on diplomacy headlines, but sustained upside now requires more proof than it did a day ago.
+The market can still rally on diplomacy headlines, but sustained upside still requires proof that the physical energy disruption is easing.
 
 That likely means:
 
-- relief rallies remain tradable but fragile,
-- investors are less likely to reward broad multiple expansion,
-- stock selection matters more than index direction.
+- tactical rebounds continue,
+- leadership stays narrow,
+- stock selection remains more important than index direction.
 
 ### 2. Oil is likely to remain the main macro signal
 
 - Brent below $100 would support a more durable relief trade.
-- Brent around $105 to $110 keeps the market in a cautious, unstable middle ground.
-- Brent back above $110 would likely revive inflation and rate fear more aggressively.
-- A move back toward the earlier stress highs would likely push the market back toward a clearer stagflation scare.
+- Brent around $105 to $110 keeps the market in an unstable middle ground.
+- Brent materially above $110 would likely bring back a more explicit stagflation scare.
 
-### 3. Central banks are likely to stay reactive, not supportive
+### 3. Central banks are still more likely to cap upside than rescue risk assets
 
-The Fed does not have much room to lean dovish if oil remains elevated. Europe has even less room because imported energy exposure is greater. Japan and other Asian importers remain stuck with the same inflation-versus-growth problem.
+The Fed still has limited room to sound dovish if oil remains elevated. Europe has even less room because imported energy exposure is greater.
 
-That means the next month is still a backdrop where policy is more likely to limit upside than to rescue risk assets.
+That keeps the next month in a regime where policy is reactive and restrictive rather than supportive.
 
-### 4. The market may still be underpricing wider shipping risk
+### 4. Lower-quality financing stories are still vulnerable
 
-This is the risk I would most explicitly flag as potentially underpriced.
+Even if diplomacy improves modestly, the cost-of-capital shock has already broadened.
 
-If the Iran conflict drags in more Red Sea or adjacent shipping disruption, the market may have to reprice:
-
-- freight risk,
-- insurance costs,
-- delivery delays,
-- and a more persistent inflation pulse than current relief scenarios assume.
+- weaker credits remain exposed,
+- refinancing-sensitive businesses remain vulnerable,
+- and balance-sheet strength still matters more than usual for equity selection.
 
 ## What Traders Should Watch Most Closely
 
 ### 1. Brent crude
 
-This is still the cleanest real-time signal.
+Still the clearest real-time signal.
 
-- Below $100: better odds of a durable equity rebound.
+- Below $100: better odds of a durable rebound.
 - $105 to $110: unstable middle ground.
 - Above $110: renewed inflation and rates pressure.
 
-### 2. U.S. 10-year Treasury yield
+### 2. Actual Hormuz and shipping conditions
 
-- Around current levels, the market can still stabilize selectively.
-- A move materially higher would hit valuations and financing-sensitive sectors more directly.
+Watch whether route restrictions, tanker behavior, and insurance conditions improve in practice rather than in rhetoric.
 
-### 3. Real shipping conditions
+### 3. U.S. Treasury yields and credit spreads
 
-Watch actual tanker movement, insurance behavior, route security, and any evidence that Red Sea or Hormuz conditions are worsening or improving in practice.
+If yields or spreads rise materially from here, the market will have a harder time sustaining even selective relief.
 
-### 4. Whether diplomacy becomes more real or more theatrical
+### 4. Whether diplomacy becomes operationally real
 
-That distinction matters now more than headline volume itself.
+The key question is not whether talks exist, but whether they produce changes in energy and shipping behavior.
 
-### 5. Spillover into consumer and housing rates
+### 5. Spillover into consumers and housing
 
-The mortgage-rate move is a reminder that the macro shock can spread beyond commodities. If broader borrowing costs keep rising, the market will have a harder time treating this as a contained energy story.
+If higher energy costs keep feeding into borrowing costs, the market will treat this as a broader tightening shock rather than a contained commodity event.
 
 ## Sector And Regional Implications
 
@@ -210,23 +193,23 @@ The mortgage-rate move is a reminder that the macro shock can spread beyond comm
 One-month view: neutral to cautious
 
 - Better resilience than Europe and much of Asia.
-- Still vulnerable through yields and financial conditions.
-- Selective quality and defensives make more sense than broad risk chasing.
+- Still vulnerable through yields and financing conditions.
+- Selective quality and hard-asset-linked value still make more sense than broad risk chasing.
 
 ### European stocks
 
 One-month view: cautious to negative
 
 - Still the clearest major-market weak spot.
-- Imported-energy and inflation sensitivity remain high.
-- Industrials, chemicals, transport, and other energy-intensive groups remain vulnerable.
+- Imported-energy sensitivity remains high.
+- Energy-intensive industries remain vulnerable.
 
 ### China
 
 One-month view: mixed
 
-- Can be steadier than some peers if domestic support holds.
-- Still exposed to weaker external demand and a weaker global risk backdrop.
+- Can appear steadier than some peers if domestic support holds.
+- Still exposed to weaker external demand and softer global risk appetite.
 
 ### Japan and broader Asia
 
@@ -240,7 +223,7 @@ One-month view: negative bias
 One-month view: relatively supported
 
 - Still benefits from unresolved supply and shipping risk.
-- Less clean upside than in a straight panic phase, but still one of the better relative groups.
+- Less clean than a pure panic phase, but still one of the stronger relative groups.
 
 ### Defense
 
@@ -252,8 +235,8 @@ One-month view: relatively strong
 
 One-month view: tactical only
 
-- Can bounce if yields calm.
-- Still exposed to any renewed oil and rates repricing.
+- Can bounce if oil and yields ease.
+- Still exposed to renewed repricing in rates.
 
 ### Consumer discretionary, housing-sensitive names, airlines, and transport
 
@@ -265,32 +248,32 @@ One-month view: vulnerable
 
 ### Bull case
 
-- Diplomacy becomes materially more credible.
-- Shipping disruption does not broaden.
+- Talks become credible quickly.
+- Hormuz restrictions ease materially.
 - Brent falls back toward or below $100.
-- Bond yields stabilize or ease.
-- Equities recover more cleanly, led by U.S. growth and cyclicals.
+- Yields stabilize or ease.
+- Equities recover more broadly, led by U.S. growth and cyclicals.
 
 ### Base case
 
-- Diplomacy stays alive but inconsistent.
+- Talks stay alive but inconsistent.
 - Shipping risk remains unresolved.
 - Brent stays elevated around current levels rather than collapsing.
-- Bond yields remain firm enough to limit upside.
-- Global equities stay volatile, with leadership concentrated in energy, defense, and resilient value.
+- Yields remain firm enough to limit broad upside.
+- Equities stay volatile, with leadership concentrated in energy, defense, and resilient value.
 
 ### Bear case
 
-- Diplomacy fails or is exposed as mostly performative.
-- Shipping disruption broadens through Houthi or related escalation.
+- Talks fail or prove mostly theatrical.
+- Restrictions or disruptions around Hormuz worsen.
 - Brent pushes decisively higher.
-- Financial conditions tighten further across rates, mortgages, and risk assets.
-- Global equities move back into a more severe stagflation-style selloff.
+- Credit and financial conditions tighten further.
+- Global equities move back toward a more explicit stagflation-style selloff.
 
 ## Summary
 
 The main market driver is still the Iran war through oil, shipping, and rates. That has not changed.
 
-What changed today is that the de-escalation story looks weaker, wider shipping risk looks more important, and the spillover into broader financial conditions is becoming clearer.
+What is new today is that the market has a tactical pause in direct attacks on Iranian energy infrastructure and a modest weekly easing in oil, but not a credible end to the energy shock.
 
-Short bottom-line summary: the next month still favors volatility and selective positioning because the core energy-and-rates shock remains in force, and today’s new information argues for more caution, not less, about the durability of the relief trade.
+Short bottom-line summary: the next month still favors selective positioning over broad risk-taking, because the regime remains energy- and financial-conditions-driven even though today’s pause slightly improves the odds of short-lived relief rallies.
