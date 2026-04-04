@@ -1,46 +1,39 @@
 # Fast Swing Stocks
 
-Date: March 27, 2026
+Date: April 4, 2026
 
 ## Scope
 
-This screen uses the refreshed March 27 macro outlook as the top-down filter.
+This screen uses the refreshed April 4 macro outlook as the top-down filter.
 
-The current backdrop still favors names that can hold up if:
-
-- oil stays elevated,
-- shipping risk remains unresolved even if diplomacy buys brief pauses,
-- yields remain firm,
-- and equities stay selective and headline-driven rather than trending cleanly higher.
-
-That keeps the screen focused on profitable, asset-backed small caps in areas that either benefit from supply disruption or remain relatively insulated from the main macro pressures. It still pushes the screen away from consumer-sensitive, refinancing-sensitive, and low-quality tactical rebounds.
+The current backdrop still favors profitable small caps that either benefit from energy and shipping dislocation or are insulated enough to avoid being obvious macro casualties over the next month. The April 1 relief move has weakened, Brent is back above $109, and the latest news suggests the physical disruption will last longer than the market hoped. That keeps the screen away from consumer-sensitive, refinancing-sensitive, and balance-sheet-fragile names.
 
 ## Core Swing-Trade Candidates
 
 | Ticker | Company | Market Cap | Profitability Metric | NAV / Tangible Book Discount | DCF Discount | Why It Fits Current Conditions | Key Risk |
 | --- | --- | ---: | --- | --- | --- | --- | --- |
-| DLNG | Dynagas LNG Partners LP | $149.2M | Net margin about 39.4% | About 69.2% below tangible book value per share | About 56.9% below conservative normalized free-cash-flow DCF | LNG shipping still offers one of the cleanest ways to express unresolved energy-flow and route stress in a market that has only reached a tactical pause, not a clean normalization | Leverage is still meaningful, so charter, counterparty, or capital-structure headlines can move the units sharply |
-| GASS | StealthGas Inc. | $351.2M | Net margin about 35.0% | About 43.9% below tangible book value per share | About 22.3% below conservative normalized free-cash-flow DCF | LPG shipping still fits a market where route disruption and energy friction matter, while the asset backing and profitability provide more downside support than most direct commodity-beta small caps | Recent free cash flow softened because of fleet investment, so the thesis depends on normalized cash generation holding up |
+| DLNG | Dynagas LNG Partners LP | $155.5M | Net margin about 39.4% | About 69% below tangible book value per share | About 57% below conservative normalized free-cash-flow DCF | LNG shipping still offers one of the cleanest ways to express unresolved energy-flow disruption without relying on pure commodity beta, and the partnership remains highly cash generative relative to its market value | Liquidity is limited and the capital structure is still more complex than a plain-vanilla industrial small cap |
+| GASS | StealthGas Inc. | $346.1M | Net margin about 35.0% | About 44% below tangible book value per share | About 22% below conservative normalized free-cash-flow DCF | LPG shipping still fits a market where route friction, fuel dislocation, and energy re-routing matter, while the company remains profitable and effectively debt-light | Shipping-rate softness or an unexpectedly quick normalization in LPG routing could keep the stock treated as deep value rather than a near-term swing winner |
 
 ## Closest Matches
 
-No other name clearly satisfies every condition on the current pass. These are the closest matches worth monitoring, sorted by profitability.
+No other name I checked clearly satisfied every condition. These are the closest matches worth monitoring, sorted by profitability.
 
 | Ticker | Company | Market Cap | Profitability Metric | NAV / Tangible Book Discount | DCF Discount | Why It Fits Current Conditions | Key Risk |
 | --- | --- | ---: | --- | --- | --- | --- | --- |
-| AMPY | Amplify Energy Corp. | $271.9M | Net margin about 16.7% | About 40.7% below tangible book value per share | Does not fully pass on current conservative normalized free-cash-flow DCF | Direct oil exposure still works if the pause fails and crude remains elevated, and the stock retains some tangible asset support | The setup depends too much on higher crude and recent free-cash-flow quality is not strong enough for the core list |
-| ASC | Ardmore Shipping Corp. | $648.8M | Net margin about 13.2% | About 2.3% above tangible book value per share | About 27.2% below conservative normalized free-cash-flow DCF | Product-tanker exposure still aligns with unresolved shipping disruption and the stock remains liquid enough to trade cleanly | The tangible-book discount is effectively gone, so the margin of safety is weaker than the core names |
+| AMPY | Amplify Energy Corp. | $247.6M | Net margin about 15.8% | About 41% below tangible book value per share | Does not fully clear on a conservative normalized DCF because cash flow is still highly tied to crude | A debt-cleaned, profitable U.S. oil producer with a simple narrative still works in a higher-oil regime and the stock still has tangible asset support | The thesis is more direct oil beta than business insulation, so it can unwind quickly if the war premium fades faster than expected |
+| ASC | Ardmore Shipping Corp. | $623.3M | Net margin about 11.6% | Roughly at fair value to tangible book, not at a real discount | About 27% below conservative normalized free-cash-flow DCF | Product-tanker exposure still aligns with unresolved route and refined-product stress, and the balance sheet is acceptable for a short-term swing trade | The tangible-book cushion is thin now, which makes it weaker than the core names on downside support |
 
 ## Notes
 
-- DLNG and GASS remain the cleanest fits because they combine profitability, hard-asset backing, valuation support, and a macro backdrop that still favors shipping-linked energy friction.
-- The March 27 macro note now reads as a contested pause rather than a clean worsening spiral, but that still favors balance-sheet quality and downside cushion over high-beta tactical rebounds.
-- I kept direct upstream energy exposure out of the core list because the regime still supports oil-linked names, but today’s pause makes crude beta a less clean expression than asset-backed shipping exposure.
-- I did not force in defense-adjacent or industrial names without clear support from both valuation and business quality, even if the macro narrative is broadly favorable.
+- DLNG and GASS remain the cleanest fits because they combine current profitability, hard-asset support, and a macro backdrop where physical normalization is still lagging.
+- I kept AMPY outside the core list because it is still too dependent on crude itself rather than on a cleaner asset-backed valuation floor.
+- I kept ASC outside the core list because the operating story is good, but the valuation support is no longer as clear on a NAV or tangible-book basis.
+- I did not force in banks, consumer cyclicals, or low-quality industrial rebounds because the April 4 setup still contains meaningful inflation, logistics, and policy risk.
 
 ## Method
 
-- Used the latest macro outlook as the top-down filter rather than assuming any fixed regime in advance.
-- Preferred sectors and business models that appear more resilient to the active risks in the macro note: elevated oil, unresolved shipping stress, tighter financial conditions, and weaker non-U.S. exposure.
-- Required profitability, acceptable balance-sheet quality, tangible asset support or a close equivalent, and conservative DCF support.
-- Returned fewer names rather than weakening the screen with fragile or low-quality tactical setups.
+- Used the latest macro outlook as the top-down filter rather than assuming the April 1 relief regime would hold.
+- Preferred sectors that still benefit from unresolved energy and route disruption or that can hold up if Europe weakens further and policy stays cautious.
+- Required profitability, reasonable balance-sheet quality, enough liquidity to trade, and clear valuation support through tangible assets or conservative cash-flow assumptions.
+- Returned fewer names rather than weakening the screen with tactical bounces that do not have a real valuation floor.

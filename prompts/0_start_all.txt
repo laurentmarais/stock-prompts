@@ -1,0 +1,16 @@
+Execute the following prompt files strictly in this order:
+
+1. #file:1_prompt_macro_economy.txt
+2. #file:2_prompt_stocks_macro.txt
+3. #file:3_prompt_stocks_momentum.txt
+
+Execution rules:
+- Complete step 1 first and write the result to #file:global_economic_outlook.md.
+- Then execute step 2 using the fresh contents of #file:global_economic_outlook.md and write the result to #file:fast_swing_stocks.md.
+- Then execute step 3 and write the result to #file:momentum_stocks.md.
+- Treat the macro note as the top-down input for the stock selection step.
+- Reassess the market with fresh information each time you run this sequence rather than carrying forward stale assumptions.
+- Be conservative. If few names qualify, return fewer names instead of forcing weak candidates.
+
+Output requirement:
+- After completing all three steps, ensure all three markdown files are updated and internally consistent with the same market regime and date context.
